@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="SetLightModeInBrowser" key="{D28B343D-9D75-4F31-9894-A158B577816E}" path="SetLightModeInBrowser.tcKDTest" />
+		<child name="LaunchApp" key="{9F3621A6-158D-461D-B7B9-F6437BDE6DE0}" path="LaunchApp.tcKDTest" />
+		<child name="SetDarkModeInBrowser" key="{5A1132E8-4EEC-4755-B8F3-AD22CBD4B80B}" path="SetDarkModeInBrowser.tcKDTest" />
+	</children>
+</Root>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{12E9E5D9-3D4D-47CA-B31E-2360C631E057}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{5ECD7EA1-FE33-4438-8E1E-49244AFB56B5}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{4C77A20C-4E33-4784-830C-5CC7BC355B75}">
+								<Image FileName="1968376081" Left="-9" Top="-9" Right="1929" Bottom="1039" />
+								<TypeInfo Item0="{8966D4AB-F096-431E-8CF9-6C3733A3F431}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageGlossier" Key="{CAF05814-1A14-43A7-B91D-B3A5F875547D}">
+								<Image FileName="-1205628396" Left="5" Top="92" Right="1915" Bottom="1024" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.glossier.com/en-in/" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnodeGlossier" Key="{7DD7EC94-DC1E-455D-82B4-E804BF4D4DA0}">
+										<Image FileName="-1205628396" Left="5" Top="92" Right="1896" Bottom="1025" />
+										<TypeInfo Item0="{28CD1DC5-AB39-4AD0-B932-5D1F8363CE2F}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#glossier" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(., &apos;Skip To Main&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body[contains(@class, &apos;template-index&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow2" Key="{4DE55209-5C2F-4B35-8C86-738A1FA6B5CA}">
+								<Image FileName="513640379" Left="-9" Top="-9" Right="1929" Bottom="1039" />
+								<TypeInfo Item0="{8966D4AB-F096-431E-8CF9-6C3733A3F431}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="wndChrome_WidgetWin_1" Key="{D3DD32DC-29CD-4E76-83A4-ECA81441CD8D}">
+								<Image FileName="855222548" Left="0" Top="0" Right="523" Bottom="308" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Chrome_RenderWidgetHostHWND" Key="{FCB9ED45-CE4D-4D00-9DF6-4DC6721619D0}">
+										<Image FileName="855222548" Left="36" Top="21" Right="487" Bottom="257" />
+										<TypeInfo Item0="{217D4406-2DA0-4F7C-98B1-77CD81BC855F}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Chrome_RenderWidgetHostHWND" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Chrome Legacy Window" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="mangeCoockies" Key="{86C2D852-7D37-48E0-BDC1-82EDBB3C5CE9}">
+								<Image FileName="1849894275" Left="5" Top="92" Right="1915" Bottom="1025" />
+								<TypeInfo Item0="{39323B5F-C078-4DFB-AEB9-DD54F3F4935C}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="edge://settings/profiles" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{5ECD7EA1-FE33-4438-8E1E-49244AFB56B5}">
+			<Child Name="BrowserWindow" Owner="{4C77A20C-4E33-4784-830C-5CC7BC355B75}" />
+			<Child Name="pageGlossier" Owner="{CAF05814-1A14-43A7-B91D-B3A5F875547D}">
+				<Child Name="textnodeGlossier" Owner="{7DD7EC94-DC1E-455D-82B4-E804BF4D4DA0}" />
+			</Child>
+			<Child Name="BrowserWindow2" Owner="{4DE55209-5C2F-4B35-8C86-738A1FA6B5CA}" />
+			<Child Name="wndChrome_WidgetWin_1" Owner="{D3DD32DC-29CD-4E76-83A4-ECA81441CD8D}">
+				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{FCB9ED45-CE4D-4D00-9DF6-4DC6721619D0}" />
+			</Child>
+			<Child Name="mangeCoockies" Owner="{86C2D852-7D37-48E0-BDC1-82EDBB3C5CE9}" />
+		</Child>
+	</LogicalNodes>
+</Root>
