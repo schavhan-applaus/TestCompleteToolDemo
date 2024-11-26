@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
-		<child name="Unit1" key="{E2B06D01-485E-4F71-9C42-F3B52689CE36}" path="Unit1.py" />
+		<child name="Gherkin_Step_Definitions" key="{E2B06D01-485E-4F71-9C42-F3B52689CE36}" path="Gherkin_Step_Definitions.py" />
+		<child name="Main_Test_Case_Functions" key="{8FD684DD-1BDF-498F-868D-5ED64C67825B}" path="Main_Test_Case_Functions.py" />
+		<child name="HelperFunctions" key="{69AB1EB7-A79C-42DE-90CE-5D6B63122708}" path="HelperFunctions.py" />
 	</children>
 </Root>

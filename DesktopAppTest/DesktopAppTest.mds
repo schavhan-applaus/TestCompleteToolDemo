@@ -5,6 +5,7 @@
 		<child name="Script" key="{A833C2B9-D77E-4717-8439-8CB4086B4F4F}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 		<child name="KeywordTests" key="{395877AF-CD49-4503-BA63-BF02BD00FFED}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
 		<child name="TestedApps" key="{26DF7BBC-2579-4DF3-BCEC-2118428C5101}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="" path="TestedApps\TestedApps.tcTAs" />
+		<child name="Scenarios" key="{FBAF4C07-6737-4284-9116-EA305BDE4C5E}" type="Scenarios" typeId="{146B1623-3D4E-46FF-A0E5-CC234C212913}" pluginName="Gherkin / BDD" path="Scenarios\Scenarios.tcTestCases" />
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{86B31664-7659-4865-A063-A024BEDDA9AA}" version="14">

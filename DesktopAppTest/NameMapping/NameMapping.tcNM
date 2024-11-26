@@ -108,6 +108,18 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="pageThemes" Key="{65A258CB-995E-4EE1-BF15-9C5142FCD815}">
+								<Image FileName="-1538512207" Left="14" Top="101" Right="1924" Bottom="1034" />
+								<TypeInfo Item0="{39323B5F-C078-4DFB-AEB9-DD54F3F4935C}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="edge://settings/appearance/themes" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -125,6 +137,7 @@
 				<Child Name="Chrome_RenderWidgetHostHWND" Owner="{FCB9ED45-CE4D-4D00-9DF6-4DC6721619D0}" />
 			</Child>
 			<Child Name="mangeCoockies" Owner="{86C2D852-7D37-48E0-BDC1-82EDBB3C5CE9}" />
+			<Child Name="pageThemes" Owner="{65A258CB-995E-4EE1-BF15-9C5142FCD815}" />
 		</Child>
 	</LogicalNodes>
 </Root>
